@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shawn Moses</h1>
 <h3 align="center">A 16 year old Programming enthusiast and an amateur CTF player</h3>
 
-- 🔭 I’m currently working on **Secrets**
+- 🔭 I’m currently working on **Skrrrrt Car**
 
-- 🌱 I’m currently learning **MERN, Flutter, Radare, C++**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Python, Socket Programming, Unity, Firebase**
 
